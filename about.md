@@ -16,6 +16,10 @@ Singapore
 
 ## People
 
+People at the Design Automation Lab:
+
+### Current
+
 Director:
 - Patrick Janssen
 
@@ -27,6 +31,8 @@ Current Researchers:
 Current Student Assistants:
 - Lim Yan Yee Joie
 - Derek Pung Shuai Shi
+
+### Past
 
 Past Researchers:
 - Chen Kian Wee
