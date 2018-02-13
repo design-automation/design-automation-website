@@ -1,0 +1,891 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"nu",
+				"numPoints\tmethod"
+			],
+			[
+				"get",
+				"getEndPoints\tfunction"
+			],
+			[
+				"getA",
+				"getArcAngles\tfunction"
+			],
+			[
+				"to",
+				"toString\tfunction"
+			],
+			[
+				"IEn",
+				"IEntAttrib\tinterface"
+			],
+			[
+				"addPo",
+				"addPolyline\tmethod"
+			],
+			[
+				"ty",
+				"type_num\tenum member"
+			],
+			[
+				"a",
+				"addEntAttrib\tmethod"
+			],
+			[
+				"n",
+				"numPoints\tmethod"
+			],
+			[
+				"IPol",
+				"IPolymesh\tinterface"
+			],
+			[
+				"addPoi",
+				"addPoints\tmethod"
+			],
+			[
+				"ge",
+				"geom\tconst"
+			],
+			[
+				"IG",
+				"IGeom\tinterface"
+			],
+			[
+				"checkP",
+				"checkPointList\tfunction"
+			],
+			[
+				"c",
+				"conics\tdirectory"
+			],
+			[
+				"ch",
+				"checkGroup\tfunction"
+			],
+			[
+				"gro",
+				"group_name\tparameter"
+			],
+			[
+				"CheckPo",
+				"checkPointList\tfunction"
+			],
+			[
+				"checkPo",
+				"checkPoint\tfunction"
+			],
+			[
+				"checkO",
+				"checkObjList\tfunction"
+			],
+			[
+				"gr",
+				"group_name\tparameter"
+			],
+			[
+				"pl",
+				"plane\tenum member"
+			],
+			[
+				"poly",
+				"polymesh\tenum member"
+			],
+			[
+				"po",
+				"polymesh\tparameter"
+			],
+			[
+				"che",
+				"checkObjList\tfunction"
+			],
+			[
+				"pol",
+				"polyline\tenum member"
+			],
+			[
+				"E",
+				"EObjType\tenum"
+			],
+			[
+				"I",
+				"IObj\tinterface"
+			],
+			[
+				"has",
+				"hasGroup\tmethod"
+			],
+			[
+				"delP",
+				"delPoints\tmethod"
+			],
+			[
+				"numF",
+				"numFaceVertices\tmethod"
+			],
+			[
+				"FromP",
+				"FromPoints\tfunction"
+			],
+			[
+				"getP",
+				"getPoints\tmethod"
+			],
+			[
+				"POl",
+				"Polymesh\tclass"
+			],
+			[
+				"m",
+				"models_circles\tscript"
+			],
+			[
+				"F",
+				"FromCircle\tfunction"
+			],
+			[
+				"add",
+				"addPoint\tmethod"
+			],
+			[
+				"new",
+				"new_points\tconst"
+			],
+			[
+				"point",
+				"point_loop\tconst"
+			],
+			[
+				"addP",
+				"addPoints\tmethod"
+			],
+			[
+				"ad",
+				"addPolymesh\tmethod"
+			],
+			[
+				"is",
+				"is_closed\tparameter"
+			],
+			[
+				"IP",
+				"IPolymesh\tinterface"
+			],
+			[
+				"getG",
+				"getGeom\tmethod"
+			],
+			[
+				"o",
+				"objNotExist\tfunction"
+			],
+			[
+				"T",
+				"TPointArg\ttype"
+			],
+			[
+				"Ma",
+				"mapObjTypeToString\tlet"
+			],
+			[
+				"FromO",
+				"FromOriginXY\tfunction"
+			],
+			[
+				"ci",
+				"circle_dev\tscript"
+			],
+			[
+				"cr",
+				"crossXYZs\tfunction"
+			],
+			[
+				"delO",
+				"delObjs\tmethod"
+			],
+			[
+				"p",
+				"push\tmethod"
+			],
+			[
+				"P",
+				"Polyline\tclass"
+			],
+			[
+				"al",
+				"already_used\tconst"
+			],
+			[
+				"ve",
+				"vec1_b\tconst"
+			],
+			[
+				"v",
+				"vectorFromPointsAtoB\tfunction"
+			],
+			[
+				"_is",
+				"_isectCirclePlane3D\tfunction"
+			],
+			[
+				"poi",
+				"point_test\tscript"
+			],
+			[
+				"con",
+				"console\tvar"
+			],
+			[
+				"de",
+				"delObjs\tmethod"
+			],
+			[
+				"IPoly",
+				"IPolymesh\tinterface"
+			],
+			[
+				"Ip",
+				"IPolymesh\tinterface"
+			],
+			[
+				"ES",
+				"EPS\tconst"
+			],
+			[
+				"l",
+				"lengthSq\tmethod"
+			],
+			[
+				"mah",
+				"math_poly\talias"
+			],
+			[
+				"_ma",
+				"_math_poly_dev\tscript"
+			],
+			[
+				"mult",
+				"multiplyScalar\tmethod"
+			],
+			[
+				"poin",
+				"points2\tconst"
+			],
+			[
+				"re",
+				"reverse\tmethod"
+			],
+			[
+				"ma",
+				"makeSeq\tmethod"
+			],
+			[
+				"num",
+				"numEdges\tmethod"
+			],
+			[
+				"s",
+				"sortAlpha\tfunction"
+			],
+			[
+				"fa",
+				"false\tkeyword"
+			],
+			[
+				"IPL",
+				"IPolyline\tinterface"
+			],
+			[
+				"geom",
+				"getGeomType\tmethod"
+			],
+			[
+				"getGr",
+				"getAllGroups\tmethod"
+			],
+			[
+				"at",
+				"attrib\tparameter"
+			],
+			[
+				"Vector",
+				"Vector3\tclass"
+			],
+			[
+				"_m",
+				"_math_conic_dev\tscript"
+			],
+			[
+				"IPO",
+				"IPoint\tinterface"
+			],
+			[
+				"IPo",
+				"IPoint\tinterface"
+			],
+			[
+				"ex",
+				"extend\tfunction"
+			],
+			[
+				"IM",
+				"IModelData\tinterface"
+			],
+			[
+				"plin",
+				"pline_test\tscript"
+			],
+			[
+				"getPo",
+				"getPointsArr\tmethod"
+			],
+			[
+				"Pol",
+				"Polymesh\tclass"
+			],
+			[
+				"addPol",
+				"addPolymesh\tmethod"
+			],
+			[
+				"del",
+				"delObj\tmethod"
+			],
+			[
+				"geM",
+				"genModelTorus\tfunction"
+			],
+			[
+				"div",
+				"divideScalar\tmethod"
+			],
+			[
+				"mul",
+				"multiplyVector3\tmethod"
+			],
+			[
+				"cl",
+				"clone\tmethod"
+			],
+			[
+				"set",
+				"setPosition\tmethod"
+			],
+			[
+				"sub",
+				"subVectors\tmethod"
+			],
+			[
+				"ver",
+				"vertex\tconst"
+			],
+			[
+				"vert",
+				"vertices\tparameter"
+			],
+			[
+				"se",
+				"setPosition\tmethod"
+			],
+			[
+				"su",
+				"sum\tmethod"
+			],
+			[
+				"Vec",
+				"Vector3\tclass"
+			],
+			[
+				"Matr",
+				"Matrix4\tclass"
+			],
+			[
+				"le",
+				"lengthSq\tmethod"
+			],
+			[
+				"getT",
+				"getTopoPathStr\tmethod"
+			],
+			[
+				"gen",
+				"genModelClosedPolyline\tfunction"
+			],
+			[
+				"_",
+				"_path\tproperty"
+			],
+			[
+				"en",
+				"entity_point\tscript"
+			],
+			[
+				"obj",
+				"objGetPoints\tmethod"
+			],
+			[
+				"IO",
+				"IObjRenderData\talias"
+			],
+			[
+				"ITh",
+				"IThreeBufferedGeometry\tinterface"
+			],
+			[
+				"iface",
+				"ifaces_threegeom\tscript"
+			],
+			[
+				"type_",
+				"type_num_arr\tenum member"
+			],
+			[
+				"attribGe",
+				"attribGetValues\tmethod"
+			],
+			[
+				"objGet",
+				"objGetVertices\tmethod"
+			],
+			[
+				"IA",
+				"IAttrib\tinterface"
+			],
+			[
+				"IT",
+				"ITopoAttrib\tinterface"
+			],
+			[
+				"IPOl",
+				"IPolymesh\tinterface"
+			],
+			[
+				"entity_o",
+				"entity_obj_coniccurve\tscript"
+			],
+			[
+				"Ve",
+				"Vector3\tclass"
+			],
+			[
+				"attr",
+				"attrib_topoattrib\tscript"
+			],
+			[
+				"topo",
+				"topo_vertex\tscript"
+			],
+			[
+				"ifa",
+				"ifaces_gs\tscript"
+			],
+			[
+				"pointG",
+				"pointGetPosition\tmethod"
+			],
+			[
+				"geomNumP",
+				"geomNumPoints\tmethod"
+			],
+			[
+				"ifaces",
+				"ifaces_json\tscript"
+			],
+			[
+				"if",
+				"ifaces_json\tscript"
+			],
+			[
+				"ifac",
+				"ifaces_trees\tscript"
+			],
+			[
+				"objGe",
+				"objGetGetPointSet\tmethod"
+			],
+			[
+				"pointGe",
+				"pointGetVertices\tmethod"
+			],
+			[
+				"groupAdd",
+				"groupAddObj\tmethod"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "error",
+		"selected_items":
+		[
+			[
+				"error",
+				"TypeScript: Show Error List"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: R",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control:ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: lint",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"TypeScript:err",
+				"TypeScript: Show Error List"
+			],
+			[
+				"err",
+				"Set Syntax: Rd (R Documentation)"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 152.0,
+		"history":
+		[
+			"previous",
+			"next",
+			"upgrade",
+			"sbdb",
+			"jjj",
+			"tslint",
+			"tsc greeter.ts",
+			"greeter",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"ctrl+s",
+			"sublime.log_commands(True)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Dropbox/Files/Software/GitHub/design-automation"
+	],
+	"file_history":
+	[
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/typescript/list.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/node_modules/gs-json/dist2015/index.js",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/typescript/unit-tests/object.tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/typescript/unit-tests/point.tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/typescript/_export_dev.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/typescript/object.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/typescript/generate/gen_three_test_models.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/typescript/generate/gen_gs_test_models.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/typescript/generate/models_object.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/typescript/object_tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/typescript/point_tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/typescript/calc_tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/typescript/xform_tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/typescript/point.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/typescript/pline_tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/typescript/xform.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/gs-modelling.sublime-project",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/typescript/import/geojson/geojson.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/package.json",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/assets/geojson/combined.gs",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/assets/geojson/Masterplan.gs",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/assets/geojson/Masterplan.geojson",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/assets/geojson/example.geojson",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/assets/geojson/example2.geojson",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/assets/geojson/All Plots_3414.geojson",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/assets/geojson/All Plots.geojson",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/assets/geojson/example.gs",
+		"/C/Users/akiphtj/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/D/Temp/geojson/example.geojson",
+		"/C/Users/akiphtj/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/typescript/libs/filesys/filesys.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/typescript/circle.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/typescript/circle_tests.ts",
+		"/C/Users/akiphtj/AppData/Roaming/Sublime Text 3/Packages/User/.jsbeautifyrc",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/typescript/import/geojson/geojson_tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/typescript/libs/arr/arr_tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/index.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/karma.conf.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/tsconfig.json",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/.gitignore",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/generate/gen_gs_test_models.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/generate/gen_three_test_models.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/libs/conics/trigo_tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/unit-tests/math_conic.tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/pmesh_dev.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/split.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/generate/models_circles.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/generate/models_plines.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/generate/models_pmeshes.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/generate/models_weeks.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/libs/conics/conics.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/libs/poly/poly.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/libs/threex/threex_tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/unit-tests/model.tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/unit-tests/object.tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/unit-tests/plane.tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/unit-tests/pline.tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/unit-tests/pmesh.tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/unit-tests/point.tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/unit-tests/split.tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/unit-tests/string.tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/unit-tests/threex.tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/unit-tests/trigo.tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/_export_dev.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/calc.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/circle.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/circle_dev.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/intersect.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/intersect_dev.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/plane.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/plane_dev.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/pline.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/pline_dev.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/pmesh.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/libs/xform/xform_tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/unit-tests/calc.tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/unit-tests/circle.tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/unit-tests/list.tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/unit-tests/math.tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/libs/conics/conics_tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/libs/filesys/filesys.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/generate/gen_gs_test_models.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/lib/_three_utils_tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/gen/gen_three_models.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/gen/gen_gs_models.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/lib/calc.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/lib/split.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/lib/intersect.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/lib/group.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/lib/point.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/lib/object.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/lib/plane.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/lib/pmesh.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/lib/pline.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/lib/_math_conic_dev.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/lib/pline_dev.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/lib/_error_msgs_dev.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/dist2015/src/gs-modelling/lib/_math_conic_dev.js",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/lib/circle.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/lib/point_tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/lib/object_tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/gen/models_plines.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/lib/pline_tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/lib/group_dev.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/package-lock.json",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/lib/_math_poly_dev.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/lib/_three_utils_dev.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/gen/models_pmeshes.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/lib/pmesh_tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/gen/models_circles.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/gen/write_files.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/gen/models_weeks.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/lib/pmesh_dev.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/lib/_utils_dev.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/unit-tests/gen_models.tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/lib/_math_xform_dev.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/unit-tests/object.tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/unit-tests/pline.tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/unit-tests/point.tests.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/lib/_export_dev.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/lib/circle_dev.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/lib/point_dev.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/lib/string.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/gen/gen_models.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/gen/gen_plines.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/gen/gen_circles.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/lib/isect_dev.ts",
+		"/D/Dropbox/Files/Software/GitHub/gs-modelling/src/gs-modelling/lib/ellipse.ts"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 269.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 59.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.errorlist":
+	{
+		"height": 110.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Compile TypeScript",
+	"project": "design-automation.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
