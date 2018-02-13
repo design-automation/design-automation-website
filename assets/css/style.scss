@@ -10,11 +10,13 @@
 
 .nav {
     font-size: 1.2em;
+}
+
+.nav a {
     font-style: normal;
     color: black;
 }
-
-.nav:hover {
+.nav a:hover {
     color: orange;
 }
 
