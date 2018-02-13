@@ -1,8 +1,6 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
 .title {
     font-size: 3em;
     font-style: normal;
@@ -19,3 +17,5 @@
 .nav:hover {
     color: orange;
 }
+
+@import "{{ site.theme }}";
