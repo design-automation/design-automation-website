@@ -6,20 +6,22 @@
 
 {% seo %}
 
-    <link rel="stylesheet" href="{{ './assets/css/style.css' }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
   </head>
   <body>
 
     <div class="wrapper">
 
       <header>
-
-        <h1 class="title"><a href="index.html">Design Automation Lab</a></h1>
-
-        <p><i>
-          A research lab focusing on developing method and tools for supporting design decision making at building and urban scales.
-        </i></p>
+        <a href="{{ site.github.url }}"> <h1 class="title">Design Automation Lab</h1> </a>
+        <p>
+          Department of Architecture</br>
+          National University of Singapore
+        </p>
 
         <div class="nav-wrapper">
           <h1 class="nav"><a href="index.html">Home</a></h1>
@@ -35,6 +37,7 @@
       <section>
         {{ content }}
       </section>
+
 
       <footer>
         <p><small>Hosted on GitHub Pages</small></p>
