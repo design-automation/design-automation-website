@@ -523,7 +523,7 @@
 			"file": "_layouts/default.html",
 			"settings":
 			{
-				"buffer_size": 1948,
+				"buffer_size": 1252,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -532,7 +532,7 @@
 			"file": "assets/css/style.scss",
 			"settings":
 			{
-				"buffer_size": 635,
+				"buffer_size": 6188,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -547,20 +547,24 @@
 			}
 		},
 		{
+			"contents": "",
 			"file": "software.md",
+			"file_size": -1,
+			"file_write_time": -1,
 			"settings":
 			{
-				"buffer_size": 2838,
-				"encoding": "UTF-8",
+				"buffer_size": 0,
 				"line_ending": "Windows"
 			}
 		},
 		{
+			"contents": "",
 			"file": "about.md",
+			"file_size": -1,
+			"file_write_time": -1,
 			"settings":
 			{
-				"buffer_size": 809,
-				"encoding": "UTF-8",
+				"buffer_size": 0,
 				"line_ending": "Windows"
 			}
 		}
@@ -807,7 +811,7 @@
 	],
 	"find":
 	{
-		"height": 37.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -847,15 +851,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1948,
+						"buffer_size": 1252,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								833,
-								845
+								0,
+								0
 							]
 						],
 						"settings":
@@ -877,15 +881,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 635,
+						"buffer_size": 6188,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								392,
-								392
+								0,
+								0
 							]
 						],
 						"settings":
@@ -941,15 +945,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2838,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2439,
-								2439
+								0,
+								0
 							]
 						],
 						"settings":
@@ -957,7 +961,7 @@
 							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 348.0,
+						"translation.y": 1.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -969,15 +973,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 809,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								313,
-								313
+								0,
+								0
 							]
 						],
 						"settings":
@@ -996,7 +1000,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 37.0
+		"height": 40.0
 	},
 	"input":
 	{
@@ -1041,7 +1045,7 @@
 	"project": "design-automation.sublime-project",
 	"replace":
 	{
-		"height": 70.0
+		"height": 76.0
 	},
 	"save_all_on_build": true,
 	"select_file":
