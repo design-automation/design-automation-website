@@ -79,7 +79,7 @@ h1.title a:hover {
  * Headings
  * --------------------------------------------------------------------------------------------*/
 
-h1, h2, h3, h4, h5, h6  {
+h1, h2, h3  {
   font-family: 'Roboto Condensed', sans-serif;
   line-height:1.1em;
   color:#044;
@@ -121,12 +121,12 @@ li {
  * Links
  * --------------------------------------------------------------------------------------------*/
 
-a {
-  color: darkred;
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+  text-decoration:none;
 }
 
-h1 a {
-  text-decoration:none;
+a {
+  color: darkred;
 }
 
 a:hover, a:focus {
@@ -152,11 +152,20 @@ a:hover small {
     margin-bottom: 1em;
 }
 
-.nav {
-    font-size: 1.2em;
-    font-style: normal;
+h1.nav {
+    font-size: 1.25em;
     line-height: 1.35em;
+}
+
+h2.nav {
+    font-size: 1em;
+    line-height: 1.15em;
+}
+
+.nav {
+    font-style: normal;
     margin: 0px;
+    text-decoration:none;
 }
 
 .nav>a {
@@ -168,14 +177,54 @@ a:hover small {
 }
 
 /* ----------------------------------------------------------------------------------------------
- * Images with captions
+ * Images
  * --------------------------------------------------------------------------------------------*/
 
-img + em {
+figure {
+    display: block;
+    margin: 0;
+}
+
+figcaption {
     font-size: 0.8em;
     font-style: italic;
     display: block;
     text-align: center;
+    margin: 0 0 1em 0;
+}
+
+div.item-wrapper {
+    margin: 1em 0 1em 0;
+    overflow: auto;
+}
+
+div.item-thumb {
+    float: left;
+    margin-right:1em;
+}
+
+img.item-img {
+    display: block;
+    border:1px solid black;
+    width: 120px;
+    height: 120px;
+}
+
+h4.item-title {
+    font-size: 1em;
+    font-style: normal;
+    margin: 0;
+}
+
+h5.item-title {
+    font-size: 1em;
+    font-style: normal;
+    font-weight: 400;
+    margin: 0;
+}
+
+p.item-descr {
+    margin: 0;
 }
 
 /* ----------------------------------------------------------------------------------------------
