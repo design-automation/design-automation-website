@@ -14,7 +14,7 @@ The plugins for simulation and analysis are grouped into six main areas:
 - Space Syntax: Generate axial line maps and calculate depth, integration, mean depth, and R2 correlation.
 - Window Analyst: Calculate various metric for windows in urban environments, including the sky view factor, sky visibility factor, unobstructed view factor, solar factor, and privacy factor.
 
-![Houdarcs](./assets/images/houdarcs.png)
+![Houdarcs](/assets/images/houdarcs.png)
 *The interface for the EnergyPlus node allowing the user to specify various simulation settings.*
 
 The development of Houdarcs was initially developed for building optimisation, and is currently being further developed for urban design.

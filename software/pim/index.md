@@ -4,21 +4,23 @@ title: Overview
 ---
 # Overview
 
-Parametric Information Modelling is a novel approach to parametric modelling that tightly integrated geometric and semantic information. 
+Parametric Information Modelling is a novel approach to 3D modelling that tightly integrates geometric and semantic information. 
 
-Arbitrary data attributes can be attached to  geometric objects, points, and topological components. These entities can also be grouped into nested hierarchies. The use of attributes and groups allows rich 3D data sets to be created by users, suited and customised to their specific purposes.
+The PIM approach provides various was of associating semantic information with elements in the model. How such semantics are applied is defined by the end-user. As such, there is no fixed schema that users are required to follow. 
+
+Three resources have been developed in order to support PIM in the browser:
 
 ## PIM Kernel
 
-In order to support 3D semantic modelling, we have developed a 3D kernel that allows geometry and semantics to be tightly integrated. 
+At the core of the PIM approach is the kernel, supporting implicit topology and the tight integration of geometry with semantics. 
 
 ## PIM Functions
 
-A library of 3D modelling functions has been developed to allow 3D geometries to be generated and manipulated. These functions work with the PIM kernel
+For performing 3D modelling operations, a library of modelling functions has been developed. The library includes functions for managing semantics.
 
 ## PIM Viewer
 
-For viewing models creating using the PIM kernel, a web-based viewer has been created. This viewer converts the models into threejs, so that they can be visualised and manipulated in the web browser.
+For viewing models, a web-based viewer has been created. The viewer allows both geometry and semantics to be viewed and interrogated using a set of interactive tools. 
 
 
 
