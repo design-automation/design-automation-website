@@ -532,7 +532,7 @@
 			"file": "assets/css/style.scss",
 			"settings":
 			{
-				"buffer_size": 6188,
+				"buffer_size": 6227,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -881,7 +881,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6188,
+						"buffer_size": 6227,
 						"regions":
 						{
 						},
