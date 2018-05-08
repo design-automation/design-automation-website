@@ -11,7 +11,13 @@ Various data types can be manipulated, include both geospatial and non-geospatia
 
 Möbius Geospatial Models can be published as interactive web pages that others can visit and explore. This allows users to develop specific data visualizations and narratives, and to then share these with a wide audience. All without requiring any textual scripting.
 
-## Möbius Geospatial Modeller (Mar 2018 - ongoing)
+## Some Examples
+
+{% include fig.html file="MobiusCES_PopDensity.png" caption="The Möbius Geospatial Modeller, exploring population density in Singapore." %}
+
+{% include fig.html file="MobiusCES_Dengue_vs_PopDen.png" caption="The Möbius Geospatial Modeller, exploring Dengue fever clusters versus population density in Singapore." %}
+
+## Möbius Geospatial Modeller (March 2018 - ongoing)
 - Project PI: [Patrick Janssen](http://patrick.janssen.name/)
 - Research Project: [Parametric Urban Modelling for JTC’s Jurong Vision, Phase 2](/projects/jurong_vision_phase2.html)
 - Research Project: [Smart Design](/projects/smart_design.html)
