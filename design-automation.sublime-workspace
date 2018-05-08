@@ -529,6 +529,24 @@
 			}
 		},
 		{
+			"file": "software/mobius/examples.md",
+			"settings":
+			{
+				"buffer_size": 620,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "software/mobius/index.md",
+			"settings":
+			{
+				"buffer_size": 1007,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "assets/css/style.scss",
 			"settings":
 			{
@@ -547,24 +565,20 @@
 			}
 		},
 		{
-			"contents": "",
 			"file": "software.md",
-			"file_size": -1,
-			"file_write_time": -1,
 			"settings":
 			{
 				"buffer_size": 0,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "",
 			"file": "about.md",
-			"file_size": -1,
-			"file_write_time": -1,
 			"settings":
 			{
 				"buffer_size": 0,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		}
@@ -676,7 +690,9 @@
 	},
 	"expanded_folders":
 	[
-		"/D/Dropbox/Files/Software/GitHub/design-automation"
+		"/D/Dropbox/Files/Software/GitHub/design-automation",
+		"/D/Dropbox/Files/Software/GitHub/design-automation/software",
+		"/D/Dropbox/Files/Software/GitHub/design-automation/software/mobius"
 	],
 	"file_history":
 	[
@@ -842,7 +858,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -875,14 +891,70 @@
 							}
 						},
 						"translation.x": 0.0,
-						"translation.y": 446.0,
+						"translation.y": 318.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "software/mobius/examples.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 620,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								500,
+								500
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
+					"buffer": 2,
+					"file": "software/mobius/index.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1007,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								55,
+								61
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
 					"file": "assets/css/style.scss",
 					"semi_transient": false,
 					"settings":
@@ -914,11 +986,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 4,
 					"file": "CNAME",
 					"semi_transient": false,
 					"settings":
@@ -942,11 +1014,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 5,
 					"file": "software.md",
 					"semi_transient": false,
 					"settings":
@@ -970,11 +1042,11 @@
 						"translation.y": 1.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 6,
 					"file": "about.md",
 					"semi_transient": false,
 					"settings":
@@ -998,7 +1070,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 5,
 					"type": "text"
 				}
 			]
@@ -1035,6 +1107,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
 	"output.doc":
 	{
 		"height": 0.0

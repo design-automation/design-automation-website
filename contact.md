@@ -21,3 +21,11 @@ Singapore
 ## Map
 
 {% include googlemap.html %}
+
+## WeChat
+![Photo](./assets/images/wechat.jpg)
+
+
+
+
+

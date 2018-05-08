@@ -14,6 +14,13 @@ title: People
 ## Current Researchers
 
 {% include item.html
+    file="person-dummy.png"
+    title="Chen Kian Wee"
+    subtitle="Research Fellow"
+    descr="April 2018 - ongoing"
+%}
+
+{% include item.html
     smlfile="akshata_sml.jpg" file="akshata.jpg"
     title="Akshata Mohanty"
     subtitle="Lead Software Developer"
@@ -21,7 +28,7 @@ title: People
 %}
 
 {% include item.html
-    file="person-dummy.png"
+    smlfile="huiyao_sml.jpg" file="huiyao.jpg"
     title="Sun Huiyao"
     subtitle="Software Developer"
     descr="3D Viewer, Oct 2017 - ongoing"
@@ -49,13 +56,6 @@ title: People
 %}
 
 ## Visiting Researchers
-
-{% include item.html
-    file="person-dummy.png"
-    title="Chen Kian Wee"
-    subtitle="Postdoctoral Researcher, Censam (MIT)"
-    descr="Dec 2017 - ongoing"
-%}
 
 {% include item.html
     file="person-dummy.png"
