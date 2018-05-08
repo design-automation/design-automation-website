@@ -10,6 +10,7 @@ coming soon
 See [Parametric Information Modelling](/software/PIM/) for more details about the PIM approach.
 
 ## Möbius Parametric Modeller (Aug 2017 - ongoing)
+- Project PI: [Patrick Janssen](http://patrick.janssen.name/)
 - Research Project: [Smart Design](/projects/smart_design.html)
 - Research Project: [Computational Thinking](/projects/comp_think.html)
 - Lead Developer: Akshata Mohanty

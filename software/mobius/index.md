@@ -4,7 +4,7 @@ title: Overview
 ---
 # Overview
 
-The Möbius Modeller is an open-source web platform that allows users to create modelling procedures using visual programming. The models can be published as interactive web pages, allowing visitors on the web to play with the models.
+The Möbius Modeller is an open-source web platform that allows users to create modelling procedures using visual programming. The models can be published as interactive web pages, allowing visitors on the web to explore the models.
 
 * [View the Möbius Modeller Gallery](https://design-automation.github.io/mobius-cesium/gallery)
 
@@ -20,7 +20,7 @@ The Möbius Geospatial Modeller allows geocomputational procedures to be develop
 
 ## Möbius Parametric Modeller
 
-The Möbius PIM Modeller allows  procedures to be developed for generating complex 3D models of buildings and urban neighbourhoods. (See [Parametric Information Modelling](/software/PIM/) (PIM) for more details about the PIM approach. )
+The Möbius PIM Modeller allows  procedures to be developed for generating complex 3D models of buildings and urban neighbourhoods. 
 
 * [Try Möbius Parametric Modeller](https://design-automation.github.io/mobius-modeller/editor)
 * [Check out the Möbius Parametric Modeller Youtube Channel](https://www.youtube.com/channel/UCNJUnZ7erTrNWnZVjvgE59g)

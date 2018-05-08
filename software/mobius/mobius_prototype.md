@@ -15,7 +15,8 @@ The Modeller also included the [ViziCities](http://ww.vizicities.com/) viewer, d
 
 {% include fig.html file="mobius1-urban.png" caption="Möbius Modeller 1, showing generation of an urban model."  %}
 
-## Möbius Prototype (version 1) (Apr 2015 to Aug 2016)
+## Möbius Prototype (Apr 2015 to Aug 2016)
+- Project PI: [Patrick Janssen](http://patrick.janssen.name/)
 - Research Project: [Nimble BIM](/projects/nimble_bim.html)
 - Lead Developer: Ruize Li
 - Research Assistants: Akshata Mohanty
