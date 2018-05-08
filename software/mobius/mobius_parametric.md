@@ -5,9 +5,15 @@ title: Möbius Parametric Modeller
 
 # Möbius Parametric Modeller
 
-coming soon
+The Möbius Parametric Modeller allows  procedures to be developed for generating complex 3D models of buildings and urban neighbourhoods. 
 
-See [Parametric Information Modelling](/software/PIM/) for more details about the PIM approach.
+The models combine geometric data with semantic information. The semantic information is attached to geometric elements or groups of elements. The geometry is modelling using a topological data structure that allows a wide variety type of interrelationships to be explicitly represented. 
+
+See [Parametric Information Modelling](/software/PIM/) for more details about this approach.
+
+## Some Examples
+
+{% include fig.html file="Mobius_AlvinSoh_Page_02.png" caption="The Möbius Parametric Modeller, a student modelling project (Alvin Soh, NUS, 2018)." %}
 
 ## Möbius Parametric Modeller (Aug 2017 - ongoing)
 - Project PI: [Patrick Janssen](http://patrick.janssen.name/)

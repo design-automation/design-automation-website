@@ -15,7 +15,7 @@ Möbius Geospatial Models can be published as interactive web pages that others 
 
 {% include fig.html file="MobiusCES_PopDensity.png" caption="The Möbius Geospatial Modeller, exploring population density in Singapore." %}
 
-{% include fig.html file="MobiusCES_Dengue_vs_PopDen.png" caption="The Möbius Geospatial Modeller, exploring Dengue fever clusters versus population density in Singapore." %}
+{% include fig.html file="MobiusCES_Dengue_vs_PopDensity.png" caption="The Möbius Geospatial Modeller, exploring Dengue fever clusters versus population density in Singapore." %}
 
 ## Möbius Geospatial Modeller (March 2018 - ongoing)
 - Project PI: [Patrick Janssen](http://patrick.janssen.name/)
