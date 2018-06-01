@@ -14,7 +14,7 @@ title: People
 ## Current Researchers
 
 {% include item.html
-    file="person-dummy.png"
+    smlfile="kianwee_sml.jpg" file="kianwee.jpg"
     title="Chen Kian Wee"
     subtitle="Research Fellow"
     descr="April 2018 - ongoing"
