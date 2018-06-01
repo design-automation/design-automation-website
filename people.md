@@ -36,13 +36,6 @@ title: People
 
 {% include item.html
     file="person-dummy.png"
-    title="Kamel Adouane"
-    subtitle="Software Developer, Modelling Functions"
-    descr="Oct 2017 - ongoing"
-%}
-
-{% include item.html
-    file="person-dummy.png"
     title="Lim Yan Yee Joie"
     subtitle="Student Assistant, Computational Thinking"
     descr="Dec 2017 - ongoing"
@@ -65,6 +58,12 @@ title: People
 %}
 
 ## Former Researchers
+
+{% include item.html
+    title="Kamel Adouane"
+    subtitle="Software Developer, Modelling Functions"
+    descr="Oct 2017 - Mar 2018"
+%}
 
 {% include item.html
     title="Estamsetty Balasubrahmanyam"
