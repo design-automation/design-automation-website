@@ -22,7 +22,7 @@ The Möbius Geospatial Modeller allows geocomputational procedures to be develop
 
 The Möbius Parametric Modeller allows  procedures to be developed for generating complex 3D models of buildings and urban neighbourhoods. 
 
-* [Try Möbius Parametric Modeller](https://design-automation.github.io/mobius-modeller/editor)
+* [Try Möbius Parametric Modeller](https://design-automation.github.io/mobius-modeller)
 * [Check out the Möbius Parametric Modeller Youtube Channel](https://www.youtube.com/channel/UCNJUnZ7erTrNWnZVjvgE59g)
 
 {% include fig.html file="mobius2_stairs.png" caption="The Möbius Parametric Modeller, showing an early stage in modelling London City Hall." %}
