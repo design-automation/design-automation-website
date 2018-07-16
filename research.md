@@ -5,6 +5,14 @@ title: Research Projects
 # Research Projects
 
 {% include item.html
+    smlfile="jurong_vision_phase2_sml.png" file="jurong_vision_phase2.png"
+    title="Jurong Vision Phase 2: "
+    subtitle="Parametric Urban Modelling for JTC’s Jurong Vision"
+    descr="Apr 2018 to Mar 2019"
+    link="More information" linkurl="/projects/jurong_vision_phase2.html"
+%}
+
+{% include item.html
     smlfile="auto_assess_sml.png" file="auto_assess.png"
     title="Computational Thinking: "
     subtitle="Automated Formative Assessment of Parametric Modelling Assignments"
