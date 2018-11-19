@@ -1,3 +1,7 @@
+The Design Aumtomation website:
+http://design-automation.net/
+
+
 To setup, follow the instructions here:
 
     https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
