@@ -60,7 +60,7 @@ title: People
 %}
 
 {% include item.html
-    file="person-dummy.png"
+    smlfile="likai_sml.jpg" file="likai.jpg"
     title="Likai Wang"
     subtitle="Visiting PhD Student, Nanjing University"
     descr="Sep 2017 - Sep 2018"
