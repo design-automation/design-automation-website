@@ -14,6 +14,52 @@ title: People
 ## Current Researchers
 
 {% include item.html
+    file="person-dummy.png"
+    title="Daniel Cai"
+    subtitle="Software Developer"
+    descr="Nov 2018 - ongoing"
+%}
+
+{% include item.html
+    file="person-dummy.png"
+    title="Tung Bui Do Phuong"
+    subtitle="Software Developer"
+    descr="Oct 2018 - ongoing"
+%}
+
+{% include item.html
+    file="person-dummy.png"
+    title="Pradeep Alva"
+    subtitle="Researcher"
+    descr="Aug 2017 - ongoing"
+%}
+
+{% include item.html
+    file="person-dummy.png"
+    title="Derek Pung Shuai Shi"
+    subtitle="Student Assistant, User Interface Design"
+    descr="June 2017 - ongoing"
+%}
+
+{% include item.html
+    file="person-dummy.png"
+    title="Alvin Soh"
+    subtitle="Student Assistant, Computational Thinking"
+    descr="June 2018 - ongoing"
+%}
+
+## Visiting Researchers
+
+{% include item.html
+    file="person-dummy.png"
+    title="Likai Wang"
+    subtitle="PhD Student, Nanjing University"
+    descr="Sep 2017 - ongoing"
+%}
+
+## Former Researchers
+
+{% include item.html
     smlfile="kianwee_sml.jpg" file="kianwee.jpg"
     title="Chen Kian Wee"
     subtitle="Research Fellow"
@@ -40,24 +86,6 @@ title: People
     subtitle="Student Assistant, Computational Thinking"
     descr="Dec 2017 - ongoing"
 %}
-
-{% include item.html
-    file="person-dummy.png"
-    title="Derek Pung Shuai Shi"
-    subtitle="Student Assistant, User Interface Design"
-    descr="June 2017 - ongoing"
-%}
-
-## Visiting Researchers
-
-{% include item.html
-    file="person-dummy.png"
-    title="Likai Wang"
-    subtitle="PhD Student, Nanjing University"
-    descr="Sep 2017 - ongoing"
-%}
-
-## Former Researchers
 
 {% include item.html
     title="Kamel Adouane"
