@@ -14,25 +14,27 @@ title: People
 ## Current Researchers
 
 {% include item.html
-    file="person-dummy.png"
+    smlfile="pradeep_sml.jpg" file="pradeep.jpg"
+    title="Pradeep Alva"
+    subtitle="Researcher"
+    descr="Aug 2017 - ongoing"
+%}
+
+{% include item.html
+    smlfile="daniel_sml.jpg" file="daniel.jpg"
     title="Daniel Cai"
     subtitle="Software Developer"
     descr="Nov 2018 - ongoing"
 %}
 
 {% include item.html
-    file="person-dummy.png"
+    smlfile="tung_sml.jpg" file="tung.jpg"
     title="Tung Bui Do Phuong"
     subtitle="Software Developer"
     descr="Oct 2018 - ongoing"
 %}
 
-{% include item.html
-    file="person-dummy.png"
-    title="Pradeep Alva"
-    subtitle="Researcher"
-    descr="Aug 2017 - ongoing"
-%}
+## Student Assistants
 
 {% include item.html
     file="person-dummy.png"
@@ -48,15 +50,6 @@ title: People
     descr="June 2018 - ongoing"
 %}
 
-## Visiting Researchers
-
-{% include item.html
-    file="person-dummy.png"
-    title="Likai Wang"
-    subtitle="PhD Student, Nanjing University"
-    descr="Sep 2017 - ongoing"
-%}
-
 ## Former Researchers
 
 {% include item.html
@@ -64,6 +57,13 @@ title: People
     title="Chen Kian Wee"
     subtitle="Research Fellow"
     descr="April 2018 - ongoing"
+%}
+
+{% include item.html
+    file="person-dummy.png"
+    title="Likai Wang"
+    subtitle="Visiting PhD Student, Nanjing University"
+    descr="Sep 2017 - Sep 2018"
 %}
 
 {% include item.html
