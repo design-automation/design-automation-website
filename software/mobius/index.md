@@ -14,7 +14,7 @@ Apps can be built on top of the Möbius Modeller Platform, focusing on different
 
 The Möbius Geospatial Modeller allows geocomputational procedures to be developed for creating interactive 3D geospatial datasets.
 
-* [Try Möbius Geospatial Modeller](https://design-automation.github.io/mobius-cesium/editor)
+* [Try Möbius Geospatial Modeller](https://design-automation.github.io/mobius-geospatial/editor)
 
 {% include fig.html file="MobiusCES_MRT_vs_PopDen.png" caption="The Möbius Geospatial Modeller, exploring distance to MRT versus population density in Singapore." %}
 
