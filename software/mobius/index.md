@@ -12,7 +12,7 @@ Apps can be built on top of the Möbius Modeller Platform, focusing on different
 
 The latest version of Möbius Modeller allows modelling procedures to be developed for creating 3D spatial models.
 
-* [Try Möbius Geospatial Modeller](http://mobius.design-automation.net)
+* [Try Möbius Modeller](http://mobius.design-automation.net)
 
 ## Möbius Geospatial Modeller, version 0.3.x
 
