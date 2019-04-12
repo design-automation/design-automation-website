@@ -27,4 +27,4 @@ Möbius Geospatial Models can be published as interactive web pages that others 
 - Research Assistant: Sun Hui Yao
 - Student Assistants: Lim Yan Yee Joie, Derek Pung Shuai Shi
 - [Möbius Geospatial Modeller on GitHub](https://github.com/design-automation/mobius-cesium)
-- [Try Möbius Geospatial Modeller](https://design-automation.github.io/mobius-cesium/editor)
+- [Try Möbius Geospatial Modeller](https://design-automation.github.io/mobius-geospatial/editor)
