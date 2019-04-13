@@ -19,7 +19,7 @@ The latest version of Möbius Modeller allows modelling procedures to be develop
 The Möbius Geospatial Modeller allows geocomputational procedures to be developed for creating interactive 3D geospatial datasets.
 
 * [Try Möbius Geospatial Modeller](https://design-automation.github.io/mobius-geospatial/editor)
-* [View the Möbius Modeller Gallery](https://design-automation.github.io/mobius-cesium/gallery)
+* [View the Möbius Modeller Gallery](https://design-automation.github.io/mobius-geospatial/gallery)
 
 {% include fig.html file="MobiusCES_MRT_vs_PopDen.png" caption="The Möbius Geospatial Modeller, exploring distance to MRT versus population density in Singapore." %}
 
