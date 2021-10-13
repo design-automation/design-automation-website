@@ -1,5 +1,4 @@
 ---
-layout: eddex
 title: Getting Started
 ---
 # Getting Started

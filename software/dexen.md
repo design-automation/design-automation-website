@@ -1,5 +1,4 @@
 ---
-layout: dexen
 title: Overview
 ---
 
@@ -22,3 +21,23 @@ This flexibility makes Dexen ideal for running optimisation jobs. For example, i
 {% include fig.html file="optimisation.png" caption="Example of a Pareto graph showing a population of building designs evolved using Dexen. (The example is based on the Interlace in Singapore.)" %}
 
 Creating tasks still requires the user to write code. This is challenging for end-users with limited programming skills. To address this, a tool has been created to partially automate the creation of these various procedures. For more information, see the Eddex site.
+
+# Links
+
+- Lead PI: [Patrick Janssen](http://patrick.janssen.name)
+
+## Developers
+
+- Lead Software Engineer: Cihat Basol
+
+## Source Code repository
+
+- [Github Repository](https://github.com/phtj/dexen)
+
+## Papers
+
+- Janssen, P., (2015). "Dexen: A scalable and extensible platform for experimenting with population-based design exploration algorithms". AI EDAM 29, 443–455. [Link](https://www.cambridge.org/core/journals/ai-edam/article/dexen-a-scalable-and-extensible-platform-for-experimenting-with-population-based-design-exploration-algorithms/B7AD943B220CB73A2C2538996B0280C0)
+
+## Install
+
+- [Dexen Install](dexen_install.html)

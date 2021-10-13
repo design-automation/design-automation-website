@@ -11,20 +11,11 @@ title: People
     link="Wesbite" linkurl="http://patrick.janssen.name"
 %}
 
-## Current Researchers
-
 {% include item.html
-    smlfile="pradeep_sml.jpg" file="pradeep.jpg"
-    title="Pradeep Alva"
-    subtitle="Researcher"
-    descr="Aug 2017 - ongoing"
-%}
-
-{% include item.html
-    smlfile="daniel_sml.jpg" file="daniel.jpg"
-    title="Daniel Cai"
-    subtitle="Software Developer"
-    descr="Nov 2018 - ongoing"
+    smlfile="likai_sml.jpg" file="likai.jpg"
+    title="Likai Wang"
+    subtitle="Dr, Postdoctoral Researcher"
+    descr="Jan 2022 - ongoing"
 %}
 
 {% include item.html
@@ -34,36 +25,27 @@ title: People
     descr="Oct 2018 - ongoing"
 %}
 
-## Student Assistants
-
-{% include item.html
-    file="person-dummy.png"
-    title="Derek Pung Shuai Shi"
-    subtitle="Student Assistant, User Interface Design"
-    descr="June 2017 - ongoing"
-%}
-
-{% include item.html
-    file="person-dummy.png"
-    title="Alvin Soh"
-    subtitle="Student Assistant, Computational Thinking"
-    descr="June 2018 - ongoing"
-%}
-
 ## Former Researchers
+
+{% include item.html
+    smlfile="pradeep_sml.jpg" file="pradeep.jpg"
+    title="Pradeep Alva"
+    subtitle="Researcher"
+    descr="Aug 2017 - Apr 2021"
+%}
+
+{% include item.html
+    smlfile="daniel_sml.jpg" file="daniel.jpg"
+    title="Daniel Cai"
+    subtitle="Software Developer"
+    descr="Nov 2018 - Aug 2019"
+%}
 
 {% include item.html
     smlfile="kianwee_sml.jpg" file="kianwee.jpg"
     title="Chen Kian Wee"
     subtitle="Research Fellow"
     descr="April 2018 - ongoing"
-%}
-
-{% include item.html
-    smlfile="likai_sml.jpg" file="likai.jpg"
-    title="Likai Wang"
-    subtitle="Visiting PhD Student, Nanjing University"
-    descr="Sep 2017 - Sep 2018"
 %}
 
 {% include item.html
@@ -78,6 +60,20 @@ title: People
     title="Sun Huiyao"
     subtitle="Software Developer"
     descr="3D Viewer, Oct 2017 - ongoing"
+%}
+
+{% include item.html
+    file="person-dummy.png"
+    title="Derek Pung Shuai Shi"
+    subtitle="Student Assistant, User Interface Design"
+    descr="June 2017 - ongoing"
+%}
+
+{% include item.html
+    file="person-dummy.png"
+    title="Alvin Soh"
+    subtitle="Student Assistant, Computational Thinking"
+    descr="June 2018 - ongoing"
 %}
 
 {% include item.html

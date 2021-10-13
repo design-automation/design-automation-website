@@ -1,5 +1,4 @@
 ---
-layout: dexen
 title: Getting Started
 ---
 

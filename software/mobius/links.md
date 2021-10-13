@@ -1,5 +1,4 @@
 ---
-layout: mobius
 title: Links
 ---
 

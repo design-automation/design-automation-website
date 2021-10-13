@@ -1,5 +1,4 @@
 ---
-layout: pim
 title: Theory
 ---
 
