@@ -15,7 +15,7 @@ title: Software
 {% include item.html
     smlfile="mobius_evolver_sml.png" file="mobius_evolver.png"
     title="Mobius Evolver: "
-    subtitle="A Cloud-based Evolutionary Optimisation System for Mobius"
+    subtitle="A Cloud-based Evolutionary Optimisation System for Mobius Modeller"
     descr="2021"
     link="More information" linkurl="/software/mobius.html"
 %}
@@ -39,7 +39,7 @@ title: Software
 {% include item.html
     smlfile="mobius_gallery_sml.png" file="mobius_gallery.png"
     title="Mobius Gallery: "
-    subtitle="A Web Gallery for Mobius Models"
+    subtitle="A Web Gallery for Mobius Modeller"
     descr="2019 - ongoing"
     link="More information" linkurl="/software/mobius.html"
 %}
@@ -63,7 +63,7 @@ title: Software
 {% include item.html
     smlfile="dexen_sml.png" file="dexen.png"
     title="Dexen: "
-    subtitle="A Cloud-Based Distributed Execution Environment"
+    subtitle="A Cloud-Based Distributed Execution Environment for Simulation and Analysis"
     descr="2014 - 2018"
     link="More information" linkurl="/software/dexen.html"
 %}
