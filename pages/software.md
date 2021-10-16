@@ -2,47 +2,57 @@
 title: Software
 ---
 
-# Software
+# The Möbius Ecosystem
 
 {% include item.html
     smlfile="mobius_modeller_sml.png" file="mobius_modeller.png"
-    title="Mobius Modeller: "
+    title="Möbius Modeller: "
     subtitle="A Parametric Modeller for the Web"
     descr="2015 - ongoing"
-    link="More information" linkurl="/software/mobius.html"
-%}
-
-{% include item.html
-    smlfile="mobius_evolver_sml.png" file="mobius_evolver.png"
-    title="Mobius Evolver: "
-    subtitle="A Cloud-based Evolutionary Optimisation System for Mobius Modeller"
-    descr="2021"
-    link="More information" linkurl="/software/mobius.html"
+    link="More information" linkurl="https://mobius.design-automation.net/pages/mobius_modeller.html"
 %}
 
 {% include item.html
     smlfile="mobius_viewer_sml.png" file="mobius_viewer.png"
-    title="Mobius Viewer: "
-    subtitle="A Web Viewer for Mobius Modeller"
+    title="Möbius Viewer: "
+    subtitle="A Web Viewer for Möbius Modeller"
     descr="2019 - ongoing"
-    link="More information" linkurl="/software/mobius.html"
+    link="More information" linkurl="https://mobius.design-automation.net/pages/mobius_viewer.html"
+%}
+
+{% include item.html
+    smlfile="mobius_evolver_sml.png" file="mobius_evolver.png"
+    title="Möbius Evolver: "
+    subtitle="A Cloud-based Evolutionary Optimisation System for Möbius Modeller"
+    descr="2021"
+    link="More information" linkurl="https://mobius.design-automation.net/pages/mobius_evolver.html"
 %}
 
 {% include item.html
     smlfile="mobius_grader_sml.png" file="mobius_grader.png"
-    title="Mobius Grader: "
-    subtitle="An Automated Cloud-based Grader for Mobius Modeller Assignments"
+    title="Möbius Grader: "
+    subtitle="An Automated Cloud-based Grader for Möbius Modeller Assignments"
     descr="2019 - ongoing"
-    link="More information" linkurl="/software/mobius.html"
+    link="More information" linkurl="https://mobius.design-automation.net/pages/mobius_grader.html"
 %}
 
 {% include item.html
     smlfile="mobius_gallery_sml.png" file="mobius_gallery.png"
-    title="Mobius Gallery: "
-    subtitle="A Web Gallery for Mobius Modeller"
+    title="Möbius Gallery: "
+    subtitle="A Web Gallery for Möbius Modeller"
     descr="2019 - ongoing"
-    link="More information" linkurl="/software/mobius.html"
+    link="More information" linkurl="https://mobius.design-automation.net/pages/mobius_gallery.html"
 %}
+
+{% include item.html
+    smlfile="mobius_sim_sml.png" file="mobius_sim.png"
+    title="Möbius Spatial Information Model: "
+    subtitle="A Typescript Library for 3D Scripting"
+    descr="2019 - ongoing"
+    link="More information" linkurl="https://mobius.design-automation.net/pages/mobius_sim.html"
+%}
+
+# Other Software
 
 {% include item.html
     smlfile="edx_generator_sml.png" file="edx_generator.png"
@@ -51,6 +61,8 @@ title: Software
     descr="2019 - ongoing"
     link="More information" linkurl="/software/edx_generator.html"
 %}
+
+# Archived Software
 
 {% include item.html
     smlfile="houdarcs_sml.png" file="houdarcs.png"
