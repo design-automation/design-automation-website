@@ -4,6 +4,10 @@ title: Software
 
 # The Möbius Ecosystem
 
+The Möbius Ecosystem encompasses various open-source tools and libraries for supporting spatial
+computational thinking. At the core of this ecosystem is Möbius Modeller, a parametric modelling
+application for the web. See [The Möbius Ecosystem](https://mobius.design-automation.net) website.
+
 {% include item.html
     smlfile="mobius_modeller_sml.png" file="mobius_modeller.png"
     title="Möbius Modeller: "
