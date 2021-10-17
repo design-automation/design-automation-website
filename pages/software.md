@@ -52,14 +52,12 @@ title: Software
     link="More information" linkurl="https://mobius.design-automation.net/pages/mobius_sim.html"
 %}
 
-# Other Software
-
 {% include item.html
-    smlfile="edx_generator_sml.png" file="edx_generator.png"
-    title="Edx Generator: "
+    smlfile="mobius_mooc_generator_outline_sml.png" file="mobius_mooc_generator_outline.png"
+    title="Möbius MOOC Generator: "
     subtitle="An Automation Tool for Generating Edx MOOCs"
     descr="2019 - ongoing"
-    link="More information" linkurl="/software/edx_generator.html"
+    link="More information" linkurl="https://mobius.design-automation.net/pages/mobius_mooc_generator.html"
 %}
 
 # Archived Software

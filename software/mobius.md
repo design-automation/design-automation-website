@@ -3,7 +3,7 @@ title: The Möbius Ecosystem
 ---
 # Overview
 
-The Design AUtomation Laboratory is developing the Möbius Ecosystem.
+The Design Automation Laboratory is developing the Möbius Ecosystem.
 
 The Möbius Ecosystem encompasses various open-source tools and libraries for supporting spatial
 computational thinking. At the core of this ecosystem is Möbius Modeller, a parametric modelling
