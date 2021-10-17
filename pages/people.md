@@ -45,42 +45,42 @@ title: People
     smlfile="kianwee_sml.jpg" file="kianwee.jpg"
     title="Chen Kian Wee"
     subtitle="Research Fellow"
-    descr="April 2018 - ongoing"
+    descr="Apr 2018 - Dec 2018"
 %}
 
 {% include item.html
     smlfile="akshata_sml.jpg" file="akshata.jpg"
     title="Akshata Mohanty"
     subtitle="Lead Software Developer"
-    descr="Aug 2015 - ongoing"
+    descr="Aug 2015 - Aug 2018"
 %}
 
 {% include item.html
     smlfile="huiyao_sml.jpg" file="huiyao.jpg"
     title="Sun Huiyao"
     subtitle="Software Developer"
-    descr="3D Viewer, Oct 2017 - ongoing"
+    descr="3D Viewer, Oct 2017 - Aug 2018"
 %}
 
 {% include item.html
     file="person-dummy.png"
     title="Derek Pung Shuai Shi"
     subtitle="Student Assistant, User Interface Design"
-    descr="June 2017 - ongoing"
+    descr="Jun 2017 - Jun 2021"
 %}
 
 {% include item.html
     file="person-dummy.png"
     title="Alvin Soh"
     subtitle="Student Assistant, Computational Thinking"
-    descr="June 2018 - ongoing"
+    descr="Jun 2018 - Jun 2019"
 %}
 
 {% include item.html
     file="person-dummy.png"
     title="Lim Yan Yee Joie"
     subtitle="Student Assistant, Computational Thinking"
-    descr="Dec 2017 - ongoing"
+    descr="Dec 2017 - Jun 2018"
 %}
 
 {% include item.html
@@ -110,13 +110,13 @@ title: People
 {% include item.html
     title="Sakshi Saxena"
     subtitle="Software Developer, Sep 2016 to Jan 2017."
-    descr="Moved on to ..."
+    descr="Moved on ..."
 %}
 
 {% include item.html
     title="Xiaojun Meng"
     subtitle="User Experience, Aug 2016 to Jan 2017."
-    descr="Moved on to ..."
+    descr="Moved on ..."
 %}
 
 {% include item.html
