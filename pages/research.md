@@ -4,6 +4,15 @@ title: Research Projects
 
 # Research Projects
 
+
+{% include item.html
+    smlfile="mobius_evo_sml.png" file="mobius_evo.png"
+    title="Reflective Intelligence Amplification: "
+    subtitle="Tackling Wicked Problems Through Dynamic Search Space Exploration"
+    descr="Oct 2019 to Mar 2021"
+    link="More information" linkurl="/projects/mobius_evo.html"
+%}
+
 {% include item.html
     smlfile="jurong_vision_phase2_sml.png" file="jurong_vision_phase2.png"
     title="Jurong Vision Phase 2: "
