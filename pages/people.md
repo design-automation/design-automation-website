@@ -16,7 +16,8 @@ title: People
     title="Likai Wang"
     subtitle="Dr, Postdoctoral Researcher"
     descr="Jan 2022 - ongoing"
-    link="Wesbite" linkurl="https://www.linkedin.com/in/likai-wang-77ab79185/"
+    link="LinkedIn" linkurl="https://www.linkedin.com/in/likai-wang-77ab79185/"
+    link2="ResearchGate" link2url="https://www.researchgate.net/profile/Likai-Wang"
 %}
 
 {% include item.html
