@@ -12,10 +12,11 @@ title: People
 %}
 
 {% include item.html
-    smlfile="likai_sml.jpg" file="likai.jpg"
+    smlfile="likai2_sml.jpg" file="likai2.jpg"
     title="Likai Wang"
     subtitle="Dr, Postdoctoral Researcher"
     descr="Jan 2022 - ongoing"
+    link="Wesbite" linkurl="https://www.linkedin.com/in/likai-wang-77ab79185/"
 %}
 
 {% include item.html
