@@ -2,6 +2,15 @@
 title: Research Projects
 ---
 
+- 2021 - 2022: Lead-PI, "VR for Spatial Computational Thinking", NUS LIFT ($91K). 
+[More information.](http://design-automation.net/projects/comp_think_vr.html)
+
+- 2019 - 2021: Lead-PI, "Spatial Computational Thinking", NUS LIFT ($91K). 
+[More information.](http://design-automation.net/projects/comp_think_moocs.html)
+
+- 2019 - 2020: Lead-PI, "Irradiance Mapping for Large-Scale City Models", NUS SERIS ($10K).
+[More information.](http://design-automation.net/projects/irradiance_mapping.html)
+
 # Research Projects
 
 {% include item.html
@@ -10,6 +19,30 @@ title: Research Projects
     subtitle="Optimization Algorithm for Rapid Sustainable Planning and Design"
     descr="Nov 2021 to Jun 2023"
     link="More information" linkurl="/projects/hdb_opt.html"
+%}
+
+{% include item.html
+    smlfile="mobius_08_vr_sml.png" file="mobius_08_vr.png"
+    title="VR for Spatial Computational Thinking: "
+    subtitle="A VR Viewer for Mobius Modeller"
+    descr="Jan 2021 to May 2022"
+    link="More information" linkurl="/projects/comp_think_vr.html"
+%}
+
+{% include item.html
+    smlfile="moocs_sml.png" file="moocs.png"
+    title="Spatial Computational Thinking: "
+    subtitle="Three Edx MOOCs"
+    descr="Apr 2019 to Sep 2020"
+    link="More information" linkurl="/projects/comp_think_moocs.html"
+%}
+
+{% include item.html
+    smlfile="irradiance_sml.png" file="irradiance.png"
+    title="Irradiance Mapping for Large-Scale City Models: "
+    subtitle="The Singapore Solar PV Roadmap"
+    descr="Jun 2019 to Jun 2020"
+    link="More information" linkurl="/projects/irradiance_mapping.html"
 %}
 
 {% include item.html
