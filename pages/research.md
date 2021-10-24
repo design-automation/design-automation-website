@@ -4,6 +4,13 @@ title: Research Projects
 
 # Research Projects
 
+{% include item.html
+    smlfile="hdb_opt1_sml.png" file="hdb_opt1.png"
+    title="HDB Optimization: "
+    subtitle="Optimization Algorithm for Rapid Sustainable Planning and Design"
+    descr="Nov 2021 to Jun 2023"
+    link="More information" linkurl="/projects/hdb_opt.html"
+%}
 
 {% include item.html
     smlfile="mobius_evo_sml.png" file="mobius_evo.png"

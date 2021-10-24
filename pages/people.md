@@ -14,7 +14,7 @@ title: People
 {% include item.html
     smlfile="likai2_sml.jpg" file="likai2.jpg"
     title="Likai Wang"
-    subtitle="Dr, Postdoctoral Researcher"
+    subtitle="Dr, Postdoctoral Fellow"
     descr="Jan 2022 - ongoing"
     link="LinkedIn" linkurl="https://www.linkedin.com/in/likai-wang-77ab79185/"
     link2="ResearchGate" link2url="https://www.researchgate.net/profile/Likai-Wang"
