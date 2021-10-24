@@ -2,15 +2,6 @@
 title: Research Projects
 ---
 
-- 2021 - 2022: Lead-PI, "VR for Spatial Computational Thinking", NUS LIFT ($91K). 
-[More information.](http://design-automation.net/projects/comp_think_vr.html)
-
-- 2019 - 2021: Lead-PI, "Spatial Computational Thinking", NUS LIFT ($91K). 
-[More information.](http://design-automation.net/projects/comp_think_moocs.html)
-
-- 2019 - 2020: Lead-PI, "Irradiance Mapping for Large-Scale City Models", NUS SERIS ($10K).
-[More information.](http://design-automation.net/projects/irradiance_mapping.html)
-
 # Research Projects
 
 {% include item.html
@@ -30,7 +21,7 @@ title: Research Projects
 %}
 
 {% include item.html
-    smlfile="moocs_sml.png" file="moocs.png"
+    smlfile="mobius_moocs_sml.png" file="mobius_moocs.png"
     title="Spatial Computational Thinking: "
     subtitle="Three Edx MOOCs"
     descr="Apr 2019 to Sep 2020"
