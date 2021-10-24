@@ -13,7 +13,7 @@ title: Research Projects
 %}
 
 {% include item.html
-    smlfile="mobius_evo_sml.png" file="mobius_evo.png"
+    smlfile="mobius_evolver_sml.png" file="mobius_evolver.png"
     title="Reflective Intelligence Amplification: "
     subtitle="Tackling Wicked Problems Through Dynamic Search Space Exploration"
     descr="Oct 2019 to Mar 2021"

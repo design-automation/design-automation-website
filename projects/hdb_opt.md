@@ -1,7 +1,7 @@
 ---
-title: HDB Optimization Algorithm
+title: HDB Optimization
 ---
-# HDB Optimization Algorithm
+# HDB Optimization
 
 - Title: Optimization Algorithm for Rapid Sustainable Planning and Design
 - Project Period: 15 Nov 2021 to 30 Jun 2023
