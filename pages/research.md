@@ -23,7 +23,7 @@ title: Research Projects
 {% include item.html
     smlfile="mobius_moocs_sml.png" file="mobius_moocs.png"
     title="Spatial Computational Thinking: "
-    subtitle="Three Edx MOOCs"
+    subtitle="Edx Massive Open Online Courses"
     descr="Apr 2019 to Sep 2020"
     link="More information" linkurl="/projects/comp_think_moocs.html"
 %}
@@ -41,7 +41,7 @@ title: Research Projects
     title="Reflective Intelligence Amplification: "
     subtitle="Tackling Wicked Problems Through Dynamic Search Space Exploration"
     descr="Oct 2019 to Mar 2021"
-    link="More information" linkurl="/projects/mobius_evo.html"
+    link="More information" linkurl="/projects/reflective.html"
 %}
 
 {% include item.html
