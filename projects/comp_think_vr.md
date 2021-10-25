@@ -13,7 +13,7 @@ title: VR for Spatial Computational Thinking
 
 ## Research Overview
 
-The research aims to develop tools and methods that leverage virtual reality (VR) to improve spatial
+The research aims to develop tools and methods that leverage Virtual Reality (VR) to improve spatial
 understanding. The tools and methods will allow designers to iteratively generate and evaluate 3D
 models using immersive VR with Head Mounted Displays (HMDs). 
 
