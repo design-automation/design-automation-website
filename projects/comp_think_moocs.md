@@ -54,7 +54,7 @@ all four courses, the content included:
 ### First Iteration
 
 In the first iteration, from Jan 2020 to Apr 2020, the four courses were delivered as
-**instructor-led**. This meant that each week, course content was released. Learners would follow
+**instructor-led**. This meant that each week, course content was released and learners would follow
 the courses, in a synchronous manner.
 
 ### Second Iteration
@@ -65,8 +65,8 @@ asynchronous manner.
 
 ### Third Iteration
 
-In the third iteration, from Sep 2021 to Feb 2022, the content was re-structured nto three courses.
-The four courses were delivered as **self-paced**.
+In the third iteration, from Sep 2021 to Feb 2022, the content was re-structured into three courses.
+The courses were delivered as **self-paced**.
 
 - [Professional Certificate Programme in Spatial Computational Thinking](https://www.edx.org/professional-certificate/nus-spatial-computational-thinking)
 - [Spatial Computational Thinking: Procedural Modelling](https://www.edx.org/course/procedural-modelling)

@@ -9,7 +9,7 @@ computational thinking. At the core of this ecosystem is Möbius Modeller, a par
 application for the web. See [The Möbius Ecosystem](https://mobius.design-automation.net) website.
 
 {% include item.html
-    smlfile="mobius_modeller_sml.png" file="mobius_modeller.png"
+    smlfile="mobius_08_vr_sml.png" file="mobius_08_vr.png"
     title="Möbius Modeller: "
     subtitle="A Parametric Modeller for the Web"
     descr="2015 - ongoing"
@@ -17,7 +17,7 @@ application for the web. See [The Möbius Ecosystem](https://mobius.design-autom
 %}
 
 {% include item.html
-    smlfile="mobius_viewer_sml.png" file="mobius_viewer.png"
+    smlfile="mobius_viewer_07_sml.png" file="mobius_viewer_07.png"
     title="Möbius Viewer: "
     subtitle="A Web Viewer for Möbius Modeller"
     descr="2019 - ongoing"
@@ -91,7 +91,7 @@ application for the web. See [The Möbius Ecosystem](https://mobius.design-autom
 %}
 
 {% include item.html
-    smlfile="studionet_sml.png" file="studionet.png"
+    smlfile="studionet_sml.jpg" file="studionet.jpg"
     title="Studionet: "
     subtitle="An Online Community for Learning Digital Design Tools and Techniques"
     descr="2016 - 2018"
