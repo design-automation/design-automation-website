@@ -57,7 +57,7 @@ title: Research Projects
     title="Computational Thinking: "
     subtitle="Automated Formative Assessment of Parametric Modelling Assignments"
     descr="Jul 2016 to Apr 2018"
-    link="More information" linkurl="/projects/comp_think.html"
+    link="More information" linkurl="/projects/comp_think_auto_assess.html"
 %}
 
 {% include item.html
