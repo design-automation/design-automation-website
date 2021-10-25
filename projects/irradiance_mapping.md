@@ -9,7 +9,7 @@ title: Irradiance Mapping
 - Principal Investigator: Patrick Janssen (PI)
 - Budget: SGD $10,520
 
-{% include fig.html file="irradiance_results1.png" caption="Irradiance Mapping of Singapore city model." %}
+{% include fig.html file="irradiance_results1.png" caption="Irradiance Mapping of the Downtown area of Singapore." %}
 
 ## Research Overview
 
@@ -53,6 +53,6 @@ The proposed workflow was used to perform teh following tasks:
 
 {% include fig.html file="irradiance_process.png" caption="Irradiance Mapping workflow." %}
 
-{% include fig.html file="irradiance_results2.png" caption="Irradiance Mapping of Singapore city model." %}
+{% include fig.html file="irradiance_results2.png" caption="Irradiance Mapping of the Tuas industrial area of Singapore." %}
 
-{% include fig.html file="irradiance_results3.png" caption="Irradiance Mapping of Singapore city model." %}
+{% include fig.html file="irradiance_results3.png" caption="Irradiance Mapping of the Toa Payoh residential area of Singapore." %}
