@@ -91,7 +91,7 @@ application for the web. See [The Möbius Ecosystem](https://mobius.design-autom
 %}
 
 {% include item.html
-    smlfile="studionet_sml.png" file="studionet.png"
+    smlfile="studionet_sml.jpg" file="studionet.jpg"
     title="Studionet: "
     subtitle="An Online Community for Learning Digital Design Tools and Techniques"
     descr="2016 - 2018"
