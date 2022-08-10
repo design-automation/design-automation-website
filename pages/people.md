@@ -27,6 +27,22 @@ title: People
     descr="Oct 2018 - ongoing"
 %}
 
+{% include item.html
+    smlfile="sheuwen_sml.jpg" file="sheuwen.jpg"
+    title="Leong Sheu Wen"
+    subtitle="Student Assistant"
+    descr="May 2022 - ongoing"
+%}
+
+## Collaborator
+
+{% include item.html
+    smlfile="kianwee_sml.jpg" file="kianwee.jpg"
+    title="Chen Kian Wee"
+    subtitle="Research Fellow"
+    descr="Apr 2018 - Dec 2018, Jul 2022 - ongoing"
+%}
+
 ## Former Researchers
 
 {% include item.html
@@ -41,13 +57,6 @@ title: People
     title="Daniel Cai"
     subtitle="Software Developer"
     descr="Nov 2018 - Aug 2019"
-%}
-
-{% include item.html
-    smlfile="kianwee_sml.jpg" file="kianwee.jpg"
-    title="Chen Kian Wee"
-    subtitle="Research Fellow"
-    descr="Apr 2018 - Dec 2018"
 %}
 
 {% include item.html
