@@ -16,7 +16,7 @@ If you get the message, "bundle: command not found", then check the path.
 
 ----
 
-Note all file names and extensions must be lower-case. If you have committed files with upper-case extensions, then you need to do teh following:
+Note all file names and extensions must be lower-case. If you have committed files with upper-case extensions, then you need to do the following:
 
 git config core.ignorecase false
 git add .

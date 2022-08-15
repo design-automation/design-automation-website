@@ -40,7 +40,7 @@ title: People
     smlfile="kianwee_sml.jpg" file="kianwee.jpg"
     title="Chen Kian Wee"
     subtitle="Research Fellow"
-    descr="Apr 2018 - Dec 2018, Jul 2022 - ongoing"
+    descr="Apr 2018 - ongoing"
 %}
 
 ## Former Researchers
