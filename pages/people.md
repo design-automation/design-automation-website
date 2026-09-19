@@ -7,7 +7,7 @@ title: People
 {% include item.html
     smlfile="patrick_sml.jpg" file="patrick.jpg"
     title="Patrick Janssen"
-    subtitle="Associate Professor, Director"
+    subtitle="Founder and Director (2008 - 2022), now Head of Research at Packhunt, Amsterdam"
     link="Wesbite" linkurl="http://patrick.janssen.name"
 %}
 

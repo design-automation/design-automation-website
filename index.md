@@ -3,10 +3,12 @@ title: Overview
 ---
 # Overview
 
-The Design Automation Lab is a research group at the Department of Architecture, National University
-of Singapore. The lab was set up by [Patrick Janssen](http://patrick.janssen.name) in 2008.
+The Design Automation Lab was a research group at the Department of Architecture, National University
+of Singapore, from 2008 to 2022. The lab was set up and directed by
+[Patrick Janssen](http://patrick.janssen.name), who is now Head of Research at
+[Packhunt](https://packhunt.io) in Amsterdam.
 
-The lab conducts research into the development of computational method and tools for supporting
+The lab conducted research into the development of computational method and tools for supporting
 design decision making at building and urban scales.
 
 These methods and tools support an adaptive-iterative type of design process that consists of two
